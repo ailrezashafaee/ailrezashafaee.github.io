@@ -108,7 +108,7 @@ export const stack: StackEntry[] = [
   },
   {
     label: "Languages",
-    items: "English, professional · German, A2 and climbing · Persian, native",
+    items: "English, professional · German, beginner and learning · Persian, native",
   },
 ];
 
